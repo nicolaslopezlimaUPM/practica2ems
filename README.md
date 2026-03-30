@@ -40,4 +40,6 @@ az policy assignment list  --subscription $(az account show --query id -o tsv)  
 ## Recursos
 https://www.adictosaltrabajo.com/2020/10/28/introduccion-a-github-actions-sintaxis-basica/
 
+[![Build and test of Java Project](https://github.com/nicolaslopezlimaUPM/practica2ems/actions/workflows/main.yml/badge.svg)](https://github.com/nicolaslopezlimaUPM/practica2ems/actions/workflows/main.yml)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
